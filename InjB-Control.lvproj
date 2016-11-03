@@ -1,29 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{15781635-0B50-4773-8971-AE2555CE10BE}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/integral time (Ti, min)</Property>
-	<Property Name="varPersistentID:{2F364C27-8604-40AA-B676-9FCD56F84C89}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/setpoint</Property>
-	<Property Name="varPersistentID:{3E121C8D-59C9-48F5-8527-63C8915C2377}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/proportional gain (Kc)</Property>
+	<Property Name="varPersistentID:{184BA597-B0B6-4947-A4A7-570BBB6EF739}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo On-Time</Property>
 	<Property Name="varPersistentID:{48A20F0F-1C43-4B6F-BF22-2294ED0DE962}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Beam-line Pressure Gauge Readbacks</Property>
-	<Property Name="varPersistentID:{4D0E7FCD-9F40-43C7-9DFB-BB495C3CE127}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/error in</Property>
-	<Property Name="varPersistentID:{5FBFACB2-878C-4F88-AF16-9ADCB7046B42}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/setpoint high</Property>
-	<Property Name="varPersistentID:{6071A682-6C90-429D-AABB-50D361DED7CA}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/beta</Property>
-	<Property Name="varPersistentID:{60F63C10-90EE-40B2-9FF4-0C754A80B664}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/manual control</Property>
 	<Property Name="varPersistentID:{6615D019-6ECE-4FD2-BCE1-4F3377D0C852}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector Aperture Readbacks</Property>
-	<Property Name="varPersistentID:{68525FFC-1201-496F-9A8D-AEB50B2C0641}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/reinitialize? (F)</Property>
 	<Property Name="varPersistentID:{74491F14-2513-4AB5-A981-55A84D1A91FA}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Ion Source Pressure Gauge Readbacks</Property>
-	<Property Name="varPersistentID:{8755A492-D18C-4486-9F6E-9DF73A73F5B3}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/output</Property>
+	<Property Name="varPersistentID:{746196CC-4753-4496-890F-01E8440F5793}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo 1st Stage Temp</Property>
 	<Property Name="varPersistentID:{94220A7B-7F19-4982-A5B2-5BD8AE240B7A}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector HV Readbacks</Property>
-	<Property Name="varPersistentID:{B063D366-ABA0-4511-8E87-D87CFD6857A1}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/dt out (s)</Property>
-	<Property Name="varPersistentID:{BF9505D9-949F-4285-A835-B4FBA830E7D9}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/process variable</Property>
-	<Property Name="varPersistentID:{D558BDD4-982F-4F0D-A060-326F5C5FC711}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/error out</Property>
-	<Property Name="varPersistentID:{D60003C4-F2CD-4101-BFD8-654BF17C447B}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/output high</Property>
-	<Property Name="varPersistentID:{DA7C8867-14ED-49A7-89F1-374B3F19A988}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/dt (s)</Property>
-	<Property Name="varPersistentID:{E958FEFB-0721-49AC-80F9-349E652F0692}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/setpoint low</Property>
-	<Property Name="varPersistentID:{F3D24F81-8DD5-4444-B98E-EA6374570548}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/derivative time (Td, min)</Property>
-	<Property Name="varPersistentID:{F6A5DDEF-1C14-4BB3-B2E9-A4EB8257AAAD}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/linearity</Property>
-	<Property Name="varPersistentID:{F7E9DC37-E7E9-4778-B44E-2D44C94FD393}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/output low</Property>
-	<Property Name="varPersistentID:{F851DC0D-9F11-49D5-A222-3C1DB7D244F1}" Type="Ref">/My Computer/Dependencies/Items in Memory/RT_Transmission.vi/PID/auto? (T)</Property>
+	<Property Name="varPersistentID:{CEA8AB4B-6C24-4FA4-B27C-4F8945BB2D82}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo Status</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
