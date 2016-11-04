@@ -8,4 +8,5 @@
 	<Item Name="Aperture RT Readbacks.ctl" Type="VI" URL="../Aperture RT Readbacks.ctl"/>
 	<Item Name="HV Controls.ctl" Type="VI" URL="../HV Controls.ctl"/>
 	<Item Name="HV Readbacks.ctl" Type="VI" URL="../HV Readbacks.ctl"/>
+	<Item Name="Pressure Gauge.ctl" Type="VI" URL="../Pressure Gauge.ctl"/>
 </Library>

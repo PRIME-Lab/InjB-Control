@@ -39,6 +39,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
@@ -1711,9 +1712,8 @@
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="InjB Readbacks.lvlib" Type="Library" URL="../InjB Readbacks.lvlib"/>
 		<Item Name="InjB-RT.vi" Type="VI" URL="../InjB-RT.vi"/>
-		<Item Name="Pressure Gauge.ctl" Type="VI" URL="../Pressure Gauge.ctl"/>
+		<Item Name="InjB Readbacks.lvlib" Type="Library" URL="../InjB Readbacks.lvlib"/>
 		<Item Name="RT ctls.lvlib" Type="Library" URL="../RT ctls.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
