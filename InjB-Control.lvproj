@@ -7,6 +7,7 @@
 	<Property Name="varPersistentID:{74491F14-2513-4AB5-A981-55A84D1A91FA}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Ion Source Pressure Gauge Readbacks</Property>
 	<Property Name="varPersistentID:{746196CC-4753-4496-890F-01E8440F5793}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo 1st Stage Temp</Property>
 	<Property Name="varPersistentID:{94220A7B-7F19-4982-A5B2-5BD8AE240B7A}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector HV Readbacks</Property>
+	<Property Name="varPersistentID:{A30F14CC-A830-49EB-8246-9804307F430D}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Bounce Magnet PS Setting</Property>
 	<Property Name="varPersistentID:{CEA8AB4B-6C24-4FA4-B27C-4F8945BB2D82}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo Status</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>

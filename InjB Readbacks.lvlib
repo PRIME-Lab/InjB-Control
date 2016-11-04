@@ -10,9 +10,18 @@
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typedefName1" Type="Str">Pressure Gauge.ctl</Property>
+		<Property Name="typedefName1" Type="Str">RT ctls.lvlib:Pressure Gauge.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Pressure Gauge.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$*R1!!!"9!A!!!!!!&amp;!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-R!!!:1!I!%U.P&lt;H:F9X2S&lt;WYA2W&amp;V:W5A)T%!'5!+!".$&lt;WZW:7.U=G^O)%&gt;B&gt;7&gt;F)#-S!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-S!!!^!0%!!!!!!!!!!2*1=G6T=X6S:3"(986H:3ZD&gt;'Q!)E"1!!1!!!!"!!)!!QZ1=G6T=X6S:3"(986H:1!!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$8UQ!!!"9!A!!!!!!&amp;!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-R!!!:1!I!%U.P&lt;H:F9X2S&lt;WYA2W&amp;V:W5A)T%!'5!+!".$&lt;WZW:7.U=G^O)%&gt;B&gt;7&gt;F)#-S!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-S!!",!0%!!!!!!!!!!AV36#"D&gt;'RT,GRW&lt;'FC%F"S:8.T&gt;8*F)%&gt;B&gt;7&gt;F,G.U&lt;!!C1&amp;!!"!!!!!%!!A!$$F"S:8.T&gt;8*F)%&gt;B&gt;7&gt;F!!!"!!1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Bounce Magnet PS Setting" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!&gt;'1!!!"9!A!!!!!!"!!5!!Q!!!1!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Cryo 1st Stage Temp" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -73,8 +82,8 @@
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typedefName1" Type="Str">Pressure Gauge.ctl</Property>
+		<Property Name="typedefName1" Type="Str">RT ctls.lvlib:Pressure Gauge.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Pressure Gauge.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$*R1!!!"9!A!!!!!!&amp;!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-R!!!:1!I!%U.P&lt;H:F9X2S&lt;WYA2W&amp;V:W5A)T%!'5!+!".$&lt;WZW:7.U=G^O)%&gt;B&gt;7&gt;F)#-S!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-S!!!^!0%!!!!!!!!!!2*1=G6T=X6S:3"(986H:3ZD&gt;'Q!)E"1!!1!!!!"!!)!!QZ1=G6T=X6S:3"(986H:1!!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$8UQ!!!"9!A!!!!!!&amp;!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-R!!!:1!I!%U.P&lt;H:F9X2S&lt;WYA2W&amp;V:W5A)T%!'5!+!".$&lt;WZW:7.U=G^O)%&gt;B&gt;7&gt;F)#-S!".!#A!-37^O)%&gt;B&gt;7&gt;F)#-S!!",!0%!!!!!!!!!!AV36#"D&gt;'RT,GRW&lt;'FC%F"S:8.T&gt;8*F)%&gt;B&gt;7&gt;F,G.U&lt;!!C1&amp;!!"!!!!!%!!A!$$F"S:8.T&gt;8*F)%&gt;B&gt;7&gt;F!!!"!!1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
