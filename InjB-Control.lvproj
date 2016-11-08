@@ -1731,11 +1731,7 @@
 						<Property Name="FPGA.PersistentID" Type="Str">{F67AC992-32EC-4BC8-B5AA-A8D12BAF5E3A}</Property>
 					</Item>
 				</Item>
-				<Item Name="Dependencies" Type="Dependencies">
-					<Item Name="vi.lib" Type="Folder">
-						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
-					</Item>
-				</Item>
+				<Item Name="Dependencies" Type="Dependencies"/>
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
