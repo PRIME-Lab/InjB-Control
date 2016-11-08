@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Aperture RT Controls.ctl" Type="VI" URL="../Aperture RT Controls.ctl"/>
 	<Item Name="Aperture RT Readbacks.ctl" Type="VI" URL="../Aperture RT Readbacks.ctl"/>
+	<Item Name="Cryo Readbacks.ctl" Type="VI" URL="../Cryo Readbacks.ctl"/>
 	<Item Name="HV Controls.ctl" Type="VI" URL="../HV Controls.ctl"/>
 	<Item Name="HV Readbacks.ctl" Type="VI" URL="../HV Readbacks.ctl"/>
 	<Item Name="Pressure Gauge.ctl" Type="VI" URL="../Pressure Gauge.ctl"/>
