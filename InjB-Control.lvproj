@@ -1,14 +1,36 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{028A4C6A-47A7-4CB6-B6EB-AA95D5B3C063}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/output high</Property>
+	<Property Name="varPersistentID:{0A12B130-5B4C-4690-AEE1-EAF3BE883AC1}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/setpoint low</Property>
 	<Property Name="varPersistentID:{184BA597-B0B6-4947-A4A7-570BBB6EF739}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo On-Time</Property>
+	<Property Name="varPersistentID:{3661E671-EB08-4559-B001-97B534106DFB}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/integral time (Ti, min)</Property>
+	<Property Name="varPersistentID:{38CC37C2-CAC3-4567-ABD4-0809679AAC01}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/setpoint high</Property>
+	<Property Name="varPersistentID:{416ACAB1-4A55-4DED-8485-1A9FA19EE696}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/linearity</Property>
 	<Property Name="varPersistentID:{48A20F0F-1C43-4B6F-BF22-2294ED0DE962}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Beam-line Pressure Gauge Readbacks</Property>
+	<Property Name="varPersistentID:{4D6556DF-6103-464C-87CC-5687E872303D}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/manual control</Property>
+	<Property Name="varPersistentID:{620332FF-4A94-48D8-BAE3-C4563CFA1BD9}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/auto? (T)</Property>
 	<Property Name="varPersistentID:{6615D019-6ECE-4FD2-BCE1-4F3377D0C852}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector Aperture Readbacks</Property>
+	<Property Name="varPersistentID:{66D6A505-D7F9-4C64-B559-6926C8692FEE}" Type="Ref">/RT CompactRIO Target/InjB Controls.lvlib/Injector HV Controls</Property>
+	<Property Name="varPersistentID:{71DFC05D-EFDF-4341-B3DA-83691D890953}" Type="Ref">/RT CompactRIO Target/InjB Controls.lvlib/Injector Aperture Controls</Property>
 	<Property Name="varPersistentID:{74491F14-2513-4AB5-A981-55A84D1A91FA}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Ion Source Pressure Gauge Readbacks</Property>
 	<Property Name="varPersistentID:{746196CC-4753-4496-890F-01E8440F5793}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo 1st Stage Temp</Property>
 	<Property Name="varPersistentID:{94220A7B-7F19-4982-A5B2-5BD8AE240B7A}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector HV Readbacks</Property>
+	<Property Name="varPersistentID:{A0302622-7461-41AD-B6B8-71761C555FEE}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/beta</Property>
+	<Property Name="varPersistentID:{A0B5C28C-C16C-4125-AB43-D733154D195F}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/dt out (s)</Property>
 	<Property Name="varPersistentID:{A30F14CC-A830-49EB-8246-9804307F430D}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Bounce Magnet PS Setting</Property>
+	<Property Name="varPersistentID:{AF545B44-FE09-43C1-A5A3-FA93663153E3}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/error out</Property>
+	<Property Name="varPersistentID:{AFA77C2B-7949-4A02-ABBC-B0FF658DB67F}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/proportional gain (Kc)</Property>
+	<Property Name="varPersistentID:{BE0E195D-CF24-40B5-AF79-13CB6EF8BF9A}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/reinitialize? (F)</Property>
+	<Property Name="varPersistentID:{C4E75E93-C840-4121-AB24-98EF71771544}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/derivative time (Td, min)</Property>
 	<Property Name="varPersistentID:{CEA8AB4B-6C24-4FA4-B27C-4F8945BB2D82}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo Status</Property>
+	<Property Name="varPersistentID:{E59F0BA0-7CB7-487C-8EE2-5177686A871E}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/error in</Property>
+	<Property Name="varPersistentID:{EA3A9619-0076-4A5A-A14B-DD84A184D524}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/output</Property>
+	<Property Name="varPersistentID:{ECA9A202-0844-47E7-964D-5EABF2C8DF6C}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/process variable</Property>
+	<Property Name="varPersistentID:{F0BFC9F1-B113-48BD-9770-4F101B5E2A69}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/setpoint</Property>
+	<Property Name="varPersistentID:{F29AAC95-34A3-4DFD-8269-274AEB0A5C3B}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/dt (s)</Property>
+	<Property Name="varPersistentID:{FC4D2E33-EBD0-49FF-8A12-87478A249E57}" Type="Ref">/RT CompactRIO Target/InjB Controls.lvlib/Bounce Magnet Set Value</Property>
+	<Property Name="varPersistentID:{FDE0CA74-0AE3-48EA-ABB4-BDF8639D15FC}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/output low</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -1709,16 +1731,44 @@
 						<Property Name="FPGA.PersistentID" Type="Str">{F67AC992-32EC-4BC8-B5AA-A8D12BAF5E3A}</Property>
 					</Item>
 				</Item>
-				<Item Name="Dependencies" Type="Dependencies"/>
+				<Item Name="Dependencies" Type="Dependencies">
+					<Item Name="vi.lib" Type="Folder">
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
+					</Item>
+				</Item>
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="InjB-RT.vi" Type="VI" URL="../InjB-RT.vi"/>
+		<Item Name="InjB-RT.vi" Type="VI" URL="../InjB-RT.vi">
+			<Item Name="PID" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="setpoint" Type="Variable"/>
+				<Item Name="process variable" Type="Variable"/>
+				<Item Name="setpoint high" Type="Variable"/>
+				<Item Name="setpoint low" Type="Variable"/>
+				<Item Name="proportional gain (Kc)" Type="Variable"/>
+				<Item Name="integral time (Ti, min)" Type="Variable"/>
+				<Item Name="derivative time (Td, min)" Type="Variable"/>
+				<Item Name="dt (s)" Type="Variable"/>
+				<Item Name="output high" Type="Variable"/>
+				<Item Name="reinitialize? (F)" Type="Variable"/>
+				<Item Name="output low" Type="Variable"/>
+				<Item Name="beta" Type="Variable"/>
+				<Item Name="auto? (T)" Type="Variable"/>
+				<Item Name="linearity" Type="Variable"/>
+				<Item Name="manual control" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+				<Item Name="dt out (s)" Type="Variable"/>
+			</Item>
+		</Item>
+		<Item Name="InjB Controls.lvlib" Type="Library" URL="../InjB Controls.lvlib"/>
 		<Item Name="InjB Readbacks.lvlib" Type="Library" URL="../InjB Readbacks.lvlib"/>
 		<Item Name="RT ctls.lvlib" Type="Library" URL="../RT ctls.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../Glassman Control.ctl"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
