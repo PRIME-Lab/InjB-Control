@@ -79,10 +79,10 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{00530EDC-D36F-44B6-BF1E-6DFB524D9028}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/Application.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">InjB-HMI.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/InjB-HMI.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -90,7 +90,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{68944162-E4EA-41A3-B5AD-F330012E08CA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{11CEEE28-572C-48F3-A6F5-24EAB72B531B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/InjB-HMI.vi</Property>
@@ -102,7 +102,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
 				<Property Name="TgtF_productName" Type="Str">InjB-HMI</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{D3C3532D-6488-4D08-AA5E-4286FE4043A3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">InjB-HMI.exe</Property>
 			</Item>
 		</Item>
 	</Item>
@@ -1916,7 +1916,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B201AA10-16EF-4243-866E-4E556274D222}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
