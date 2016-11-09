@@ -3,25 +3,34 @@
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{028A4C6A-47A7-4CB6-B6EB-AA95D5B3C063}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/output high</Property>
 	<Property Name="varPersistentID:{0A12B130-5B4C-4690-AEE1-EAF3BE883AC1}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/setpoint low</Property>
+	<Property Name="varPersistentID:{2848F43C-259C-41BF-B208-A3116CCA3B2D}" Type="Ref">/My Computer/InjB-HMI Controls.lvlib/Bounce Magnet Set Value</Property>
 	<Property Name="varPersistentID:{3661E671-EB08-4559-B001-97B534106DFB}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/integral time (Ti, min)</Property>
 	<Property Name="varPersistentID:{38CC37C2-CAC3-4567-ABD4-0809679AAC01}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/setpoint high</Property>
 	<Property Name="varPersistentID:{416ACAB1-4A55-4DED-8485-1A9FA19EE696}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/linearity</Property>
+	<Property Name="varPersistentID:{42D2AA26-43E6-40E2-A0EA-7005297B86C7}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Injector HV Readbacks</Property>
+	<Property Name="varPersistentID:{459F323C-E37D-423F-A90E-072BFC31FB0D}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Beam-line Pressure Gauge Readbacks</Property>
 	<Property Name="varPersistentID:{48A20F0F-1C43-4B6F-BF22-2294ED0DE962}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Beam-line Pressure Gauge Readbacks</Property>
 	<Property Name="varPersistentID:{4D6556DF-6103-464C-87CC-5687E872303D}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/manual control</Property>
 	<Property Name="varPersistentID:{5C226E25-4E09-4705-80B7-BA65D9AD4886}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Cryo Readbacks</Property>
 	<Property Name="varPersistentID:{620332FF-4A94-48D8-BAE3-C4563CFA1BD9}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/auto? (T)</Property>
 	<Property Name="varPersistentID:{6615D019-6ECE-4FD2-BCE1-4F3377D0C852}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector Aperture Readbacks</Property>
 	<Property Name="varPersistentID:{66D6A505-D7F9-4C64-B559-6926C8692FEE}" Type="Ref">/RT CompactRIO Target/InjB Controls.lvlib/Injector HV Controls</Property>
+	<Property Name="varPersistentID:{6EC7E9C3-776F-45FA-83EF-E2129EF744EC}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Bounce Field Readbacks</Property>
 	<Property Name="varPersistentID:{71DFC05D-EFDF-4341-B3DA-83691D890953}" Type="Ref">/RT CompactRIO Target/InjB Controls.lvlib/Injector Aperture Controls</Property>
 	<Property Name="varPersistentID:{74491F14-2513-4AB5-A981-55A84D1A91FA}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Ion Source Pressure Gauge Readbacks</Property>
+	<Property Name="varPersistentID:{8B1FC5FF-B9D0-447F-9613-C6896BF2089A}" Type="Ref">/My Computer/InjB-HMI Controls.lvlib/Injector Aperture Controls</Property>
 	<Property Name="varPersistentID:{94220A7B-7F19-4982-A5B2-5BD8AE240B7A}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Injector HV Readbacks</Property>
 	<Property Name="varPersistentID:{A0302622-7461-41AD-B6B8-71761C555FEE}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/beta</Property>
 	<Property Name="varPersistentID:{A0B5C28C-C16C-4125-AB43-D733154D195F}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/dt out (s)</Property>
-	<Property Name="varPersistentID:{A30F14CC-A830-49EB-8246-9804307F430D}" Type="Ref">/RT CompactRIO Target/InjB Readbacks.lvlib/Bounce Magnet PS Setting</Property>
+	<Property Name="varPersistentID:{A67BB4B5-762C-4BA1-AD48-C1BE0194CED3}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Cryo Readbacks</Property>
+	<Property Name="varPersistentID:{A743008A-7197-4010-B7BF-DA1CAE2328E3}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Bounce Field Readbacks</Property>
 	<Property Name="varPersistentID:{AF545B44-FE09-43C1-A5A3-FA93663153E3}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/error out</Property>
 	<Property Name="varPersistentID:{AFA77C2B-7949-4A02-ABBC-B0FF658DB67F}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/proportional gain (Kc)</Property>
 	<Property Name="varPersistentID:{BE0E195D-CF24-40B5-AF79-13CB6EF8BF9A}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/reinitialize? (F)</Property>
 	<Property Name="varPersistentID:{C4E75E93-C840-4121-AB24-98EF71771544}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/derivative time (Td, min)</Property>
+	<Property Name="varPersistentID:{C5B360A4-B05D-42D9-8DD7-313C3F91477B}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Injector Aperture Readbacks</Property>
+	<Property Name="varPersistentID:{DFB86CE4-99B7-438C-9D04-41B04AA70B44}" Type="Ref">/My Computer/InjB-HMI Controls.lvlib/Injector HV Controls</Property>
+	<Property Name="varPersistentID:{E4CB9610-7462-44F0-827E-C3C8798456D2}" Type="Ref">/My Computer/InjB-HMI Readbacks.lvlib/Ion Source Pressure Gauge Readbacks</Property>
 	<Property Name="varPersistentID:{E59F0BA0-7CB7-487C-8EE2-5177686A871E}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/error in</Property>
 	<Property Name="varPersistentID:{EA3A9619-0076-4A5A-A14B-DD84A184D524}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/output</Property>
 	<Property Name="varPersistentID:{ECA9A202-0844-47E7-964D-5EABF2C8DF6C}" Type="Ref">/RT CompactRIO Target/InjB-RT.vi/PID/process variable</Property>
@@ -38,6 +47,7 @@
 		<Property Name="IOScan.Priority" Type="UInt">9</Property>
 		<Property Name="IOScan.ReportModeConflict" Type="Bool">true</Property>
 		<Property Name="IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -48,8 +58,53 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="InjB-HMI.vi" Type="VI" URL="../InjB-HMI.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="InjB-HMI Controls.lvlib" Type="Library" URL="../InjB-HMI Controls.lvlib"/>
+		<Item Name="InjB-HMI Readbacks.lvlib" Type="Library" URL="../InjB-HMI Readbacks.lvlib"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="RT ctls.lvlib" Type="Library" URL="../RT ctls.lvlib"/>
+		</Item>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="InjB-HMI" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{3962A7D8-C7D3-448F-B0D3-0A049503D947}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{87FFAD9E-CC5C-4C8C-A6EA-294A75EFE3BB}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{61EB6285-751E-4905-820C-56595C716117}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">InjB-HMI</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{00530EDC-D36F-44B6-BF1E-6DFB524D9028}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/Application.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{68944162-E4EA-41A3-B5AD-F330012E08CA}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/InjB-HMI.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">InjB-HMI</Property>
+				<Property Name="TgtF_internalName" Type="Str">InjB-HMI</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
+				<Property Name="TgtF_productName" Type="Str">InjB-HMI</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{D3C3532D-6488-4D08-AA5E-4286FE4043A3}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
