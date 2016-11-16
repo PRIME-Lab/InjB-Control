@@ -19,9 +19,11 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#OKA!!!"9!A!!!!!!&amp;!"F!!Q!41G^V&lt;G.F)%VB:WZF&gt;#"';76M:!!A1$$`````&amp;E*P&gt;7ZD:3".97=A5&amp;-A=G6T='^O=W5!!#"!-0````]71G^V&lt;G.F)%VB:S"15S"S:7&amp;E9G&amp;D;Q!!(U!+!"B#&lt;X6O9W5A47&amp;H&lt;G6U)&amp;"4)(.F&gt;(2J&lt;G=!!!Y!5!!%!!!!!1!#!!-!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">RT ctls.lvlib:Bounce Field Readback.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../Bounce Field Readback.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$[^A!!!"9!A!!!!!!&amp;!"F!!Q!41G^V&lt;G.F)%VB:WZF&gt;#"';76M:!!A1$$`````&amp;E*P&gt;7ZD:3".97=A5&amp;-A=G6T='^O=W5!!#"!-0````]71G^V&lt;G.F)%VB:S"15S"S:7&amp;E9G&amp;D;Q!!(U!+!"B#&lt;X6O9W5A47&amp;H&lt;G6U)&amp;"4)(.F&gt;(2J&lt;G=!!&amp;I!]1!!!!!!!!!#$6*5)'.U&lt;(-O&lt;(:M;7):1G^V&lt;G.F)%:J:7RE)&amp;*F972C97.L,G.U&lt;!!K1&amp;!!"!!!!!%!!A!$&amp;E*P&gt;7ZD:3"';76M:#"3:7&amp;E9G&amp;D;X-!!!%!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Cryo Readbacks" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
